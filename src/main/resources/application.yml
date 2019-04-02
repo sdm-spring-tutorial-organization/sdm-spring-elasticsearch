@@ -1,0 +1,10 @@
+# SV
+server:
+  port:
+    8080
+
+# ELK
+elasticsearch:
+  cluster-name: sdm
+  host: localhost
+  port: 9200
