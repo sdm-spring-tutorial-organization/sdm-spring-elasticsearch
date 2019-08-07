@@ -69,6 +69,13 @@
             <artifactId>elasticsearch</artifactId>
         </dependency>
 
+        <!-- elasticsearch : highlevel-client -->
+        <dependency>
+            <groupId>org.elasticsearch.client</groupId>
+            <artifactId>elasticsearch-rest-high-level-client</artifactId>
+            <version>6.4.3</version>
+        </dependency>
+
         <!-- elasticsearch : transport -->
         <dependency>
             <groupId>org.elasticsearch.client</groupId>
